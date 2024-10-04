@@ -12,8 +12,8 @@
     "onComplementary": "#FBFFF2",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "6xl",
-        "weight": "normal",
+        "size": "9xl",
+        "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
