@@ -12,10 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: João Coelho
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: Sou um jovem de 17 anos com gosto em programação e hardware.
     actions: []
     colors: colors-f
     backgroundSize: full
