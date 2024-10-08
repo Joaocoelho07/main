@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 40
 sections:
   - type: HeroSection
-    title: ' joão Coelho'
+    title: João Pedro Silva Coelho
     subtitle: ''
     actions: []
     colors: colors-f
