@@ -139,7 +139,7 @@ sections:
           - pr-4
         justifyContent: center
         margin:
-          - ml-52
+          - ml-32
       title:
         textAlign: center
       subtitle:
