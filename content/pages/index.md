@@ -231,5 +231,5 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    title: Alguns Trabalhos
+    title: Alguns Trabalhos  Realizados
 ---
