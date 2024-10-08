@@ -160,11 +160,13 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: |+
+        quote: >
           # Loja online feita em wordpress
 
 
-
+          Esta loja cujo o nome é Kebabs do Ambrósio, foi feita a pedido do
+          Professor Pedro Paiva onde eu achei interessante  fazer uma loja de
+          comida, neste caso, kebabs.
         name: Made by
         title: João Coelho
         image:
