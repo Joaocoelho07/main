@@ -137,7 +137,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: flex-end
         margin:
           - ml-0
       title:
