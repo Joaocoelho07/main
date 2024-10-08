@@ -171,7 +171,7 @@ sections:
         title: João Coelho
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/Kebabs.png
           altText: John Doe
           caption: Caption of the image
           elementId: ''
