@@ -109,7 +109,7 @@ sections:
         label: Português
         url: ''
       - type: Label
-        label: React
+        label: Inglês
         url: ''
       - type: Label
         label: Microsoft Office
