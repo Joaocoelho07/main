@@ -11,9 +11,60 @@ backgroundImage:
   opacity: 40
 sections:
   - type: HeroSection
-    title: ' joão Coelho'
-    subtitle: Sou um jovem de 17 anos com gosto em programação e hardware.
+    title: João Pedro Silva Coelho
+    subtitle: ''
     actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: center
+        fontWeight: 400
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: HeroSection
+    title: Sobre mim
+    subtitle: >-
+      Sou o João e tenho 16 anos, e neste momento frequento o 3º ano do curso
+      Técnico de Gestão e Programação de Sistemas Informáticos. Sou uma pessoa
+      educada, sociável e gosto de ajudar os outros. Tenho interesse na área de
+      Programação e de Hardware e também particular gosto em música.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/about.jpg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
@@ -37,150 +88,147 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-f
-    type: FeaturedProjectsSection
+  - type: DividerSection
+    title: Divider
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: LabelsSection
+    title: Skills
+    subtitle: ''
+    items:
+      - type: Label
+        label: Phyton
+        url: ''
+      - type: Label
+        label: Java
+        url: ''
+      - type: Label
+        label: C#
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: Hardware
+        url: ''
+      - type: Label
+        label: Português
+        url: ''
+      - type: Label
+        label: Inglês
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-8
+          - pr-4
+        justifyContent: center
+        margin:
+          - ml-0
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: John Doe
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-2.jpg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          “Anytime I have a question, I know I can get in touch with Doris. She
+          always helps me adjust my site to look as perfect as I’d hoped.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/person-3.jpg
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-person.png
+          altText: Person photo
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-28
-          - pb-48
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
         textAlign: left
 ---
