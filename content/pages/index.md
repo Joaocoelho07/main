@@ -172,7 +172,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Kebabs.png
-          altText: John Doe
+          altText: Kebabs do Ambrósio
           caption: Caption of the image
           elementId: ''
         elementId: ''
