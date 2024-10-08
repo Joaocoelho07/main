@@ -112,6 +112,9 @@ sections:
         label: Inglês
         url: ''
       - type: Label
+        label: Hardware
+        url: ''
+      - type: Label
         label: Phyton
         url: ''
       - type: Label
@@ -122,9 +125,6 @@ sections:
         url: ''
       - type: Label
         label: C++
-        url: ''
-      - type: Label
-        label: Hardware
         url: ''
     colors: colors-f
     elementId: ''
