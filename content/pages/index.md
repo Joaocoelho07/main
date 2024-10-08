@@ -194,7 +194,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Captura de ecrã 2024-10-08 163655.png
-          altText: Johnna Doe
+          altText: Pesadelo Na Mirage
           caption: Caption of the image
           elementId: ''
         elementId: ''
