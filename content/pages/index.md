@@ -164,7 +164,7 @@ sections:
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
         name: Made by me
-        title: ''
+        title: João Coelho
         image:
           type: ImageBlock
           url: /images/person-2.jpg
