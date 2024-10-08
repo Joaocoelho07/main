@@ -190,7 +190,7 @@ sections:
           uma rounda do jogo Counter-strike 2, as escolhas podem ajudar o
           jogador a ganhar o jogo ou a perder o mesmo.
         name: Made By
-        title: Product Marketing Manager at Acme
+        title: João Coelho
         image:
           type: ImageBlock
           url: /images/person-3.jpg
