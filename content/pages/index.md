@@ -54,9 +54,10 @@ sections:
   - type: HeroSection
     title: Sobre mim
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Sou o João e tenho 16 anos, e neste momento frequento o 3º ano do curso
+      Técnico de Gestão e Programação de Sistemas Informáticos. Sou uma pessoa
+      educada, sociável e gosto de ajudar os outros. Tenho interesse na área de
+      Programação e de Hardware e também particular gosto em música.
     actions: []
     media:
       type: ImageBlock
