@@ -193,7 +193,7 @@ sections:
         title: João Coelho
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/Captura de ecrã 2024-10-08 163655.png
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
