@@ -189,7 +189,7 @@ sections:
           Este jogo, feito em phyton, consiste em o jogador fazer escolhas sobre
           uma rounda do jogo Counter-strike 2, as escolhas podem ajudar o
           jogador a ganhar o jogo ou a perder o mesmo.
-        name: Johnna Doe
+        name: Made By
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
