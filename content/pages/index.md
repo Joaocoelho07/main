@@ -31,6 +31,7 @@ sections:
         flexDirection: row
       title:
         textAlign: center
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
