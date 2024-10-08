@@ -112,7 +112,7 @@ sections:
         label: Inglês
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Phyton
         url: ''
       - type: Label
         label: Next.js
