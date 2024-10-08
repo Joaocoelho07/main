@@ -62,7 +62,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/VIT_2962.jpg
-      altText: Hero image
+      altText: This is me
       caption: Caption of the image
       elementId: ''
     colors: colors-f
