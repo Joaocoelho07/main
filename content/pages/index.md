@@ -209,7 +209,7 @@ sections:
 
           Este trabalho consiste em um site onde se escolhe os jogadores para o
           11 inicial do Real Madrid da época 23/24.
-        name: Johnna Doe
+        name: Made By
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
