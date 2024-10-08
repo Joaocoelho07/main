@@ -115,7 +115,7 @@ sections:
         label: Phyton
         url: ''
       - type: Label
-        label: Next.js
+        label: Java
         url: ''
       - type: Label
         label: Netlify
