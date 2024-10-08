@@ -138,6 +138,8 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        margin:
+          - ml-52
       title:
         textAlign: center
       subtitle:
