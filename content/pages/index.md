@@ -136,7 +136,7 @@ sections:
           - pt-64
           - pb-64
           - pl-4
-          - pr-64
+          - pr-4
         justifyContent: center
       title:
         textAlign: center
