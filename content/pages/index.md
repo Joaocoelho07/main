@@ -160,9 +160,11 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: |+
+          # Loja online feita em wordpress
+
+
+
         name: Made by
         title: João Coelho
         image:
