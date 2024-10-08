@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: ' joão Coelho'
-    subtitle: Sou um jovem de 17 anos com gosto em programação e hardware.
+    subtitle: ''
     actions: []
     colors: colors-f
     backgroundSize: full
