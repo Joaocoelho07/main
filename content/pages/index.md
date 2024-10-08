@@ -118,7 +118,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: Netlify
+        label: C#
         url: ''
       - type: Label
         label: Pancakes
