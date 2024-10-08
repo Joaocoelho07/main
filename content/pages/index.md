@@ -210,7 +210,7 @@ sections:
           Este trabalho consiste em um site onde se escolhe os jogadores para o
           11 inicial do Real Madrid da época 23/24.
         name: Made By
-        title: Product Marketing Manager at Acme
+        title: Joao Coelho
         image:
           type: ImageBlock
           url: >-
