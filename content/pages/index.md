@@ -61,8 +61,8 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/VIT_2962.jpg
+      altText: This is me
       caption: Caption of the image
       elementId: ''
     colors: colors-f
@@ -161,14 +161,40 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
+          # Loja online feita em wordpress
+
+
+          Esta loja cujo o nome é Kebabs do Ambrósio, foi feita a pedido do
+          Professor Pedro Paiva onde eu achei interessante  fazer uma loja de
+          comida, neste caso, kebabs.
+        name: Made by
+        title: João Coelho
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
+          url: /images/Kebabs.png
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+      - type: Testimonial
+        quote: >-
+          # TextBased Game - Pesadelo Na Mirage
+
+
+          Este jogo, feito em phyton, consiste em o jogador fazer escolhas sobre
+          uma rounda do jogo Counter-strike 2, as escolhas podem ajudar o
+          jogador a ganhar o jogo ou a perder o mesmo.
+        name: Made By
+        title: João Coelho
+        image:
+          type: ImageBlock
+          url: /images/Captura de ecrã 2024-10-08 163655.png
+          altText: Pesadelo Na Mirage
           caption: Caption of the image
           elementId: ''
         elementId: ''
@@ -179,28 +205,12 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
-        image:
-          type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-      - type: Testimonial
-        quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
+          # Trabalho Real Madrid Convocatória
+
+          Este trabalho consiste em um site onde se escolhe os jogadores para o
+          11 inicial do Real Madrid da época 23/24.
+        name: Made By
+        title: Joao Coelho
         image:
           type: ImageBlock
           url: >-
@@ -231,4 +241,5 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: Alguns Trabalhos  Realizados
 ---
