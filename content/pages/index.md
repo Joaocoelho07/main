@@ -171,7 +171,6 @@ sections:
         title: João Coelho
         image:
           type: ImageBlock
-          url: /images/Kebabs.png
           altText: Kebabs do Ambrósio
           caption: Caption of the image
           elementId: ''
