@@ -106,9 +106,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Inglês
-        url: ''
-      - type: Label
         label: Phyton
         url: ''
       - type: Label
@@ -125,6 +122,9 @@ sections:
         url: ''
       - type: Label
         label: Português
+        url: ''
+      - type: Label
+        label: Inglês
         url: ''
     colors: colors-f
     elementId: ''
