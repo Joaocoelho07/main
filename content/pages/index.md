@@ -169,11 +169,6 @@ sections:
           comida, neste caso, kebabs.
         name: Made by
         title: João Coelho
-        image:
-          type: ImageBlock
-          altText: Kebabs do Ambrósio
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
