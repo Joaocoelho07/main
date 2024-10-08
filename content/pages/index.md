@@ -135,7 +135,7 @@ sections:
         padding:
           - pt-64
           - pb-64
-          - pl-64
+          - pl-4
           - pr-64
         justifyContent: center
       title:
