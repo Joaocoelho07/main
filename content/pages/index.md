@@ -102,7 +102,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: LabelsSection
-    title: Skills
+    title: Hardware
     subtitle: The section subtitle
     items:
       - type: Label
