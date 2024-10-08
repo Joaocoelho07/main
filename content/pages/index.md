@@ -177,8 +177,7 @@ sections:
             fontWeight: 400
         image:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Kebabs.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
