@@ -214,7 +214,7 @@ sections:
         image:
           type: ImageBlock
           url: '/images/{9434F75B-7A2F-4F1E-BBDC-103508737B21}.png'
-          altText: Person photo
+          altText: Trabalho real madrid
           caption: Caption of the image
           elementId: ''
         elementId: ''
