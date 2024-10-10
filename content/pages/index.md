@@ -213,8 +213,7 @@ sections:
         title: Joao Coelho
         image:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-person.png
+          url: '/images/{9434F75B-7A2F-4F1E-BBDC-103508737B21}.png'
           altText: Person photo
           caption: Caption of the image
           elementId: ''
