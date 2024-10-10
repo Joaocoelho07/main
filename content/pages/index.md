@@ -258,13 +258,11 @@ sections:
     colors: colors-f
     variant: variant-a
     title: How to contact me
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      My number - (+351) 926113253
+
+      My email - a14348\@oficina.pt
+
     elementId: ''
     styles:
       self:
